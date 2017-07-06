@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: false
 resume-external: true
-resume-url: 
+resume-url: https://www.linkedin.com/in/mattmawer/
 
 url: http://mattmawer.github.io
 
@@ -24,21 +24,21 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't have any of social below, comment the line
-# facebook: myfacebook
-# twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
-linkedin: mylinkedin
-# youtube: myyoutube
-# spotify: myspotify
-github: mygithub
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-# medium: medium
-# vimeo: myvimeo
+# facebook: 
+# twitter: 
+# google: 
+# instagram: 
+# pinterest: 
+linkedin: https://www.linkedin.com/in/mattmawer/
+# youtube: 
+# spotify: 
+github: https://github.com/mattmawer
+# lastfm: 
+# stackoverflow:
+# quora: 
+# reddit: 
+# medium: 
+# vimeo: 
 email: matt@mattmawer.co.uk
 
 authors:
@@ -58,10 +58,8 @@ width: normal
 # paginate: 5
 # paginate_path: "blog/:num/"
 
-# if you don't need projects, comment the *projects* configs below
+# if you don't need projects, about, or blog, comment the *projects* configs below
 projects: true
-
-# if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
 
